@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 27 09:23:12 2021
 
-@author: Erlend Tøssebro
-"""
 
 class Sporsmaal:
     def __init__(self, sporsmaal, alternativer, korrekt_svar=0):
